@@ -1,0 +1,11 @@
+.first{color: #fd0808fb;
+}
+.second{color: blue;
+}
+.pagina{
+    color:red;
+    position: absolute;
+    background: transparent;
+    border: 2px solid #fd0808fb;
+}
+
